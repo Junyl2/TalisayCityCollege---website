@@ -16,6 +16,8 @@ Website feautures: still planning.
 - main → Production (final version).
 - staging → Testing before merging to `main`.
 - dev → Development branch (combines frontend & backend).
+- front-end → main branch for front-end feaures.
+- back-end → main branch for back-end feaures.
 
  Front-End Branches
 - `frontend` → Main front-end development branch.
