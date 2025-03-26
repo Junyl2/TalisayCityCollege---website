@@ -10,7 +10,7 @@ Website feautures: still planning.
 
 -1.clone the repository.
 -2. fetch all the branches that I created.
-> Note:All new features should be developed in a `feature/name` branch and merged into`front-end-feature` or `back-end-feature` and merged to `frontend` or `backend` before merging into `dev`.
+> Note:All new features should be developed in a `feature/name` branch and merged into`front-end-feature` or `back-end-feature` and merged to `front-end` or `back-end` before merging into `dev`.
 
  Main Branches
 - main → Production (final version).
