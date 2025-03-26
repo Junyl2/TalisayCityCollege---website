@@ -5,8 +5,8 @@ for fun hahaha!.
 Website feautures: still planning.
 
  Git Branch Structure
-#Merging Workflow
-1.clone the repository,
+#Merging Workflow,
+1.clone the repository.
 2. fetch all the branches that I created.
 > Note:All new features should be developed in a `feature/name` branch and merged into `frontend` or `backend` before merging into `dev`.
 
