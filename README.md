@@ -19,6 +19,7 @@ Website feautures: still planning.
 
  Front-End Branches
 - `frontend` → Main front-end development branch.
+
 example:
 - `feature/homepage` → Homepage UI/UX.
 - `feature/navbar` → Navigation bar.
@@ -26,6 +27,7 @@ example:
 
  Back-End Branches
 - `backend` → Main back-end development branch.
+
 example:
 - `feature/auth` → User authentication.
 - `feature/database` → Database setup.
