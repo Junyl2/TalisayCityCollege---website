@@ -1,6 +1,7 @@
 # TalisayCityCollege---website
 A modern school website built using HTML, CSS, Bootstrap, PHP, and MySQL.
 for fun hahaha!
+Website feauture: still planning.
 
  Git Branch Structure
 
